@@ -90,3 +90,42 @@ Scan and Sort Page
 Chatbot page
  <img width="1080" height="2400" alt="Chatbot" src="https://github.com/user-attachments/assets/c5243983-a338-4466-b8d8-ee9c3ce0f12f" />
 <img width="1080" height="2400" alt="Chatbot_Intro" src="https://github.com/user-attachments/assets/58cea0ba-83a5-4827-aacf-34ba0dfb622b" />
+
+
+
+## Application Screens (Android)
+* Splash Screen
+<p float="left">
+    <img src='screenshots_android/Splash.png' width='200'>
+</p>
+
+* Intro Pages (component 'Intro' attached to home page)
+<p float="left">
+  <img src='screenshots_android/Intro1.png' width='200'>
+  <img src='screenshots_android/Intro2.png' width='200'>
+</p>
+
+* Home Page (Collection Schedule and Drop-off Depots features are disabled)
+<p float="left">
+  <img src='screenshots_android/Home.png' width='200'>
+</p>
+
+* Recycle, Compost, Garbage, Yard pages (all sharing the same page format 'WasteSetOutTips.tsx')
+<p float="left">
+  <img src='screenshots_android/Recycle.png' width='200'>
+  <img src='screenshots_android/Compost.png' width='200'>
+  <img src='screenshots_android/Garbage.png' width='200'>
+  <img src='screenshots_android/Yard.png' width='200'>
+</p>
+
+* Scan and Sort Page
+<p float="left">
+  <img src='screenshots_android/Scan&Sort.png' width='200'>
+  <img src='screenshots_android/Scan&SortResult.png' width='200'>
+</p>
+
+* Chatbot page
+<p float="left">
+  <img src='screenshots_android/Chatbot_Intro.png' width='200'>
+  <img src='screenshots_android/Chatbot.png' width='200'>
+</p>
