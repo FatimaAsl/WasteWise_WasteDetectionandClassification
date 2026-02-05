@@ -1,4 +1,4 @@
-# Waste Detection and Classification
+# WateWise Application _ Waste Detection and Classification
 ## Researcher - Fatima Aghapourasl
 
 Purpose - This repository was completed as a graded project in partial fulfillment of the requirements for the postgraduate studies
