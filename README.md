@@ -67,27 +67,32 @@ Splash Screen
 <img width="200"  alt="Splash" src="https://github.com/user-attachments/assets/d04ad5c0-4e8d-4280-9b88-db9de123ca41" />
 
 Intro Pages (component 'Intro' attached to home page)
+
  <img width="200"  alt="Intro2" src="https://github.com/user-attachments/assets/44827acc-1c02-4e75-8807-0db78ae0bd06" />
 <img width="200"  alt="Intro1" src="https://github.com/user-attachments/assets/9c03341e-199b-4642-8ce6-139e0388d10c" />
 
 
 Home Page (Collection Schedule and Drop-off Depots features are disabled)
+
 <img width="200"  alt="Home" src="https://github.com/user-attachments/assets/3e6da969-0de0-4d8e-ac6e-1fde769f204e" />
 
 
 Recycle, Compost, Garbage, Yard pages (all sharing the same page format 'WasteSetOutTips.tsx')
-   <img width="200"  alt="Compost" src="https://github.com/user-attachments/assets/646d797c-03b9-413e-930a-ed6a508684ac" />
+
+<img width="200"  alt="Compost" src="https://github.com/user-attachments/assets/646d797c-03b9-413e-930a-ed6a508684ac" />
 <img width="200" " alt="Garbage" src="https://github.com/user-attachments/assets/8a29afd4-d3ab-430f-b5ce-1d9d671ad0dd" />
 <img width="200"  alt="Recycle" src="https://github.com/user-attachments/assets/fa8b4345-cce2-4c3c-b592-120bdec0c35c" />
 <img width="200"  alt="Yard" src="https://github.com/user-attachments/assets/e064dece-e139-41c0-a4cd-d3ac0001a5c6" />
 
-
 Scan and Sort Page
- <img width="1080" height="2400" alt="Scan SortResult" src="https://github.com/user-attachments/assets/6f93cc39-6c5d-44c7-89b1-f41037a067c7" />
+
+<img width="1080" height="2400" alt="Scan SortResult" src="https://github.com/user-attachments/assets/6f93cc39-6c5d-44c7-89b1-f41037a067c7" />
 <img width="1080" height="2400" alt="Scan Sort" src="https://github.com/user-attachments/assets/2dc0dea0-4fbc-4363-b4b0-1b83442aee5f" />
 
 
 Chatbot page
- <img width="200"  alt="Chatbot" src="https://github.com/user-attachments/assets/c5243983-a338-4466-b8d8-ee9c3ce0f12f" />
+
+ 
+<img width="200"  alt="Chatbot" src="https://github.com/user-attachments/assets/c5243983-a338-4466-b8d8-ee9c3ce0f12f" />
 <img width="200"  alt="Chatbot_Intro" src="https://github.com/user-attachments/assets/58cea0ba-83a5-4827-aacf-34ba0dfb622b" />
 
