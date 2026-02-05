@@ -67,7 +67,7 @@ Splash Screen
 <img width="1080" height="2400" alt="Splash" src="https://github.com/user-attachments/assets/d04ad5c0-4e8d-4280-9b88-db9de123ca41" />
 
 Intro Pages (component 'Intro' attached to home page)
- <img width="1080" height="2400" alt="Intro2" src="https://github.com/user-attachments/assets/44827acc-1c02-4e75-8807-0db78ae0bd06" />
+ <img width="200"  alt="Intro2" src="https://github.com/user-attachments/assets/44827acc-1c02-4e75-8807-0db78ae0bd06" />
 <img width="1080" height="2400" alt="Intro1" src="https://github.com/user-attachments/assets/9c03341e-199b-4642-8ce6-139e0388d10c" />
 
 
